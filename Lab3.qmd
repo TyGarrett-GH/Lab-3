@@ -1,0 +1,6 @@
+---
+title: "Lab3"
+format: html
+editor: visual
+---
+## Question 1
